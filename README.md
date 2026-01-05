@@ -1,3 +1,3 @@
 # trip-planner
-#Greet
+# Greet
 hello
